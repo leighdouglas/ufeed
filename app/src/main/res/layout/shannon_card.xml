@@ -13,7 +13,6 @@
             android:textStyle="italic"
             android:textColor="@color/lightBlue"
             android:gravity="center"
-            android:layout_centerHorizontal="true"
             android:id="@+id/tvid"/>
     </LinearLayout>
 

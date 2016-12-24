@@ -20,7 +20,7 @@ public class BookCardViewHolder extends RecyclerView.ViewHolder {
     public BookCardViewHolder(ViewGroup parent) {
         super(inflateView(parent)); //calling the inflate view method which returns the container of our view
         view = itemView;
-        bookTitleView = (TextView) view.findViewById(R.id.card_text);
+        bookTitleView = (TextView) view.findViewById(R.id.tvid);
 
     }
 
